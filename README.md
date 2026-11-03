@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fresh_slug_8781), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-11-03 |
 | [Shared Category Purchasers](./practice/sql/shared-category-purchasers) | SQL | Medium | 2026-11-03 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 
