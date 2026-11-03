@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fresh_slug_8781), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Shared Category Purchasers](./practice/sql/shared-category-purchasers) | SQL | Medium | 2026-11-03 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 
 <!-- datadriven:index:end -->
