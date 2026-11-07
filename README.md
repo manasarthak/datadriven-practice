@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fresh_slug_8781), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Shortest Unique Metric Tag](./practice/python/shortest-unique-metric-tag) | Python | Medium | 2026-11-07 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
 | [The Long Way Around](./practice/python/the-long-way-around) | Python | Easy | 2026-11-04 |
