@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fresh_slug_8781), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-16 |
 | [The Extremes](./practice/sql/the-extremes) | SQL | Hard | 2026-11-16 |
 | [Radio Silence](./practice/sql/radio-silence) | SQL | Hard | 2026-11-13 |
 | [The Grid Pivot](./practice/python/the-grid-pivot) | Python | Easy | 2026-11-11 |
