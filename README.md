@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fresh_slug_8781), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Extremes](./practice/sql/the-extremes) | SQL | Hard | 2026-11-16 |
 | [Radio Silence](./practice/sql/radio-silence) | SQL | Hard | 2026-11-13 |
 | [The Grid Pivot](./practice/python/the-grid-pivot) | Python | Easy | 2026-11-11 |
 | [Shortest Unique Metric Tag](./practice/python/shortest-unique-metric-tag) | Python | Medium | 2026-11-07 |
