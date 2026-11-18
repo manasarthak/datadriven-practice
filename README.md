@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fresh_slug_8781), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Merge Champion](./practice/python/the-merge-champion) | Python | Medium | 2026-11-18 |
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-16 |
 | [The Extremes](./practice/sql/the-extremes) | SQL | Easy | 2026-11-16 |
 | [Radio Silence](./practice/sql/radio-silence) | SQL | Hard | 2026-11-13 |
