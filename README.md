@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fresh_slug_8781), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Power Users](./practice/sql/power-users) | SQL | Easy | 2026-11-20 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-11-18 |
 | [The Merge Champion](./practice/python/the-merge-champion) | Python | Medium | 2026-11-18 |
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-16 |
